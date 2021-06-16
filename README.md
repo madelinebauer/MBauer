@@ -26,6 +26,7 @@ Please explore the projects below.
 
 ### Airline Safety
 [Airline Safety](https://bauerdsc640.blogspot.com/2021/05/air-travel-truths.html)
+
 [GitHub Files](https://github.com/madelinebauer/AirlineSafety)
 
 
