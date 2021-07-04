@@ -5,5 +5,5 @@
 
 [Presentation Slides](https://github.com/madelinebauer/MBauer/blob/f8f5c966d591d236af9ce371d83f24d64ce8dee4/CustomerSegmentationPresentation%20-%20BAUER.pdf "Presentation Slides")
 
-
+[Video Link](https://github.com/madelinebauer/MBauer/blob/b2be5a17360a401726e4ead56057063dd2e16ed9/Presentation%20Link.pdf "Presentation")
 
